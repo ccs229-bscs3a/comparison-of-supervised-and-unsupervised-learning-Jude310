@@ -6,7 +6,7 @@ def app():
     text = """Comparing Supervised and Unsupervised Learning: KNN vs KMeans"""
     st.subheader(text)
 
-    text = """ Made by Angel Jude Diones \n\n
+    text = """ Made by Angel Jude Diones
     for CCS 229 - Intelligent Systems"""
     st.text(text)
 
