@@ -7,7 +7,7 @@ def app():
     st.subheader(text)
 
     text = """ Made by Angel Jude Diones \n\n
-    for CCS 229 - Intelligent Systems""
+    for CCS 229 - Intelligent Systems"""
     st.text(text)
 
     text = """Data App: Supervised vs Unsupervised Learning Performance
